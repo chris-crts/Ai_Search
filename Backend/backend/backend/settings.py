@@ -76,11 +76,6 @@ CORS_ALLOW_ALL_ORIGINS = True
 # settings.py
 
 ALLOWED_HOSTS = [
-    '127.0.0.1',
-    '192.168.101.76',
-    '0.0.0.0',
-    '192.168.68.158',
-    '192.168.1.19'
     # Add any other hosts you need here
 ]
 
